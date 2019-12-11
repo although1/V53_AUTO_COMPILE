@@ -1,0 +1,9 @@
+F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\bin\Debug\V53_AUTO_COMPILE.exe.config
+F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\bin\Debug\V53_AUTO_COMPILE.exe
+F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\bin\Debug\V53_AUTO_COMPILE.pdb
+F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.csprojAssemblyReference.cache
+F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.Form1.resources
+F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.Properties.Resources.resources
+F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.csproj.GenerateResource.cache
+F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.exe
+F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.pdb
