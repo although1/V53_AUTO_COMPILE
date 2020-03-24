@@ -110,6 +110,11 @@ echo "Start build YDG SOFTWARE "
 #比如正常文件夹名为CSTM_KL_ENG_T_R5L_03C_05_GENERAL_1440x900_IRCVT00BF_KPD_LUCKY_JEDIA_20190417
 #则要改成	JEDIA="CSTM_KL_ENG_T_R5L_03C_"$Panel_name"_IRCVT00BF_KPD_LUCKY_JEDIA_20190417"，其余三个类似
 
+#设置交叉编译环境
+export PATH=$PATH:/opt/tool/mips-4.3/bin
+export PATH=$PATH:/opt/tool/aeon/bin
+export PATH=$PATH:/opt/tool/arm/4.4.3/bin
+
 #第一步建立生成目录
 
 rm -v -rf ${OUT_BIN_PATH}

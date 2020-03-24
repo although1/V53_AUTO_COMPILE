@@ -451,7 +451,7 @@
             this.Font = new System.Drawing.Font("宋体", 6.6F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
-            this.Text = "V53_AUTO_COMPILE V1.0";
+            this.Text = "V53_AUTO_COMPILE V1.1";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -7,3 +7,12 @@ F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.Properties.
 F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.csproj.GenerateResource.cache
 F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.exe
 F:\C++Java\C#\WORK_SPACE\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.pdb
+D:\dogdog\git\V53_AUTO_COMPILE\bin\Debug\V53_AUTO_COMPILE.exe.config
+D:\dogdog\git\V53_AUTO_COMPILE\bin\Debug\V53_AUTO_COMPILE.exe
+D:\dogdog\git\V53_AUTO_COMPILE\bin\Debug\V53_AUTO_COMPILE.pdb
+D:\dogdog\git\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.csprojAssemblyReference.cache
+D:\dogdog\git\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.Form1.resources
+D:\dogdog\git\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.Properties.Resources.resources
+D:\dogdog\git\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.csproj.GenerateResource.cache
+D:\dogdog\git\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.exe
+D:\dogdog\git\V53_AUTO_COMPILE\obj\Debug\V53_AUTO_COMPILE.pdb
